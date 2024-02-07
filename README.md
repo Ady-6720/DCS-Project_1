@@ -10,8 +10,8 @@ This project implements a client-server file transfer system using sockets in C+
 4. Follow the prompts on the client-side to interact with the server and perform file operations.
 
 ## File Structure
-- **Server.cpp:** Contains the implementation of the server-side logic.
-- **Client.cpp:** Contains the implementation of the client-side logic.
+- **myftp.cpp:** Contains the implementation of the server-side logic.
+- **myftpserver.cpp:** Contains the implementation of the client-side logic.
 - **README.md:** This file, providing an overview of the project, its features, prerequisites, usage instructions, and file structure.
 
 ## Contributors
